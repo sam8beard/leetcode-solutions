@@ -5,7 +5,7 @@
 - [x] Reshape the Matrix — ==**Easy**==
 - [x] Toeplitz Matrix — ==**Easy**==
 - [ ] Image Overlap — ==**Medium**==
-- [ ] Largest Local Values in a Matrix — ==**Easy**==
-- [ ] Transpose Matrix — ==**Easy**==
+- [x] Largest Local Values in a Matrix — ==**Easy**==
+- [x] Transpose Matrix — ==**Easy**==
 - [ ] Count Square Submatrices with All Ones — ==**Medium**==
 - [ ] Text Justification — ==**Hard**==
