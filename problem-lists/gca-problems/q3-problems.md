@@ -1,6 +1,6 @@
 - [x] Spiral Matrix — ==**Medium**==
 - [ ] Spiral Matrix II — ==**Medium**==
-- [ ] Rotate Image — ==**Medium**==
+- [x] Rotate Image — ==**Medium**==
 - [ ] Diagonal Traverse — ==**Medium**==
 - [ ] Reshape the Matrix — ==**Easy**==
 - [ ] Toeplitz Matrix — ==**Easy**==
