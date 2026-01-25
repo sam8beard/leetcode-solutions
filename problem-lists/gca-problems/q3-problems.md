@@ -3,7 +3,7 @@
 - [x] Rotate Image — ==**Medium**==
 - [ ] Diagonal Traverse — ==**Medium**==
 - [ ] Reshape the Matrix — ==**Easy**==
-- [ ] Toeplitz Matrix — ==**Easy**==
+- [x] Toeplitz Matrix — ==**Easy**==
 - [ ] Image Overlap — ==**Medium**==
 - [ ] Largest Local Values in a Matrix — ==**Easy**==
 - [ ] Transpose Matrix — ==**Easy**==
