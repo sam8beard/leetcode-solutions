@@ -1,0 +1,12 @@
+- [ ] Longest Consecutive Sequence — ==**Medium**==
+- [ ] 4Sum II — ==**Medium**==
+- [ ] Pairs of Songs With Total Durations Divisible by 60 — ==**Medium**==
+- [ ] Longest Palindrome by Concatenating Two Letter Words — ==**Medium**==
+- [ ] Array of Doubled Pairs — ==**Medium**==
+- [ ] 3Sum With Multiplicity — ==**Medium**==
+- [ ] Count Number of Nice Subarrays — ==**Medium**==
+- [ ] K-diff Pairs in an Array — ==**Medium**==
+- [ ] Diagonal Traverse II — ==**Medium**==
+- [ ] Find Occurrences of an Element in an Array — ==**Medium**==
+- [ ] Find the Number of Distinct Colors Among the Balls — ==**Medium**==
+- [ ] Max Sum of a Pair With Equal Sum of Digits — ==**Medium**==

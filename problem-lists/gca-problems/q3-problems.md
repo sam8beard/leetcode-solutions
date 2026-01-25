@@ -1,0 +1,11 @@
+- [x] Spiral Matrix — ==**Medium**==
+- [ ] Spiral Matrix II — ==**Medium**==
+- [ ] Rotate Image — ==**Medium**==
+- [ ] Diagonal Traverse — ==**Medium**==
+- [ ] Reshape the Matrix — ==**Easy**==
+- [ ] Toeplitz Matrix — ==**Easy**==
+- [ ] Image Overlap — ==**Medium**==
+- [ ] Largest Local Values in a Matrix — ==**Easy**==
+- [ ] Transpose Matrix — ==**Easy**==
+- [ ] Count Square Submatrices with All Ones — ==**Medium**==
+- [ ] Text Justification — ==**Hard**==
