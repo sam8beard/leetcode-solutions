@@ -2,7 +2,7 @@
 - [ ] Spiral Matrix II — ==**Medium**==
 - [x] Rotate Image — ==**Medium**==
 - [ ] Diagonal Traverse — ==**Medium**==
-- [ ] Reshape the Matrix — ==**Easy**==
+- [x] Reshape the Matrix — ==**Easy**==
 - [x] Toeplitz Matrix — ==**Easy**==
 - [ ] Image Overlap — ==**Medium**==
 - [ ] Largest Local Values in a Matrix — ==**Easy**==
