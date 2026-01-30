@@ -1,6 +1,6 @@
 - [x] Find Occurrences of an Element in an Array — ==Medium==
-- [ ] Longest Subtring Without Repeating Characters - ==Medium==
-- [ ] Longest Repeating Character Replacement - ==Medium==
+- [x] Longest Subtring Without Repeating Characters - ==Medium==
+- [x] Longest Repeating Character Replacement - ==Medium==
 - [ ] Count Number of Nice Subarrays — ==Medium==
 - [ ] K-diff Pairs in an Array — ==Medium==
 - [ ] Pairs of Songs With Total Durations Divisible by 60 — ==Medium==
