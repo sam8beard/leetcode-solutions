@@ -2,6 +2,19 @@
 - [x] Longest Subtring Without Repeating Characters - ==Medium==
 - [x] Longest Repeating Character Replacement - ==Medium==
 - [x] Count Number of Nice Subarrays — ==Medium==
+- [ ] Invert Binary Tree - ==Easy==
+- [ ] Max Depth of Binary Tree - ==Easy==
+- [ ] Same Tree - ==Easy==
+- [ ] Subtree of Another Tree - ==Easy==
+- [ ] Lowest Common Ancestor of a Binary Tree - ==Medium==
+- [ ] Binary Tree Level Order Traversal - ==Medium==
+- [ ] Validate Binary Search Tree - ==Medium== 
+- [ ] Kth Smallest Element in a BST - ==Medium== 
+- [ ] Number of Islands - ==Medium==
+- [ ] Clone Graph - ==Medium==
+- [ ] Pacific Atlantic Water Flow - ==Medium==
+- [ ] Course Schedule - ==Medium==
+---
 - [ ] K-diff Pairs in an Array — ==Medium==
 - [ ] Pairs of Songs With Total Durations Divisible by 60 — ==Medium==
 - [ ] 3Sum With Multiplicity — ==Medium==
