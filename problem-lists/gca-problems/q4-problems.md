@@ -2,9 +2,9 @@
 - [x] Longest Subtring Without Repeating Characters - ==Medium==
 - [x] Longest Repeating Character Replacement - ==Medium==
 - [x] Count Number of Nice Subarrays — ==Medium==
-- [ ] Invert Binary Tree - ==Easy==
-- [ ] Max Depth of Binary Tree - ==Easy==
-- [ ] Same Tree - ==Easy==
+- [x] Invert Binary Tree - ==Easy==
+- [x] Max Depth of Binary Tree - ==Easy==
+- [x] Same Tree - ==Easy==
 - [ ] Subtree of Another Tree - ==Easy==
 - [ ] Lowest Common Ancestor of a Binary Tree - ==Medium==
 - [ ] Binary Tree Level Order Traversal - ==Medium==
