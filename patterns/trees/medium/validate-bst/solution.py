@@ -1,7 +1,9 @@
 def isValidBST(root):
     def validate(root, left, right):
+
         if not root:
             return True
+
         if not (right > root.val and left < root.val):
             return False
 
