@@ -25,7 +25,7 @@
 `    if left and right:`
 `        return root`
 
-> == Final Return ==
+> == Final Case ==
 - If only one subtree contains a node -> return the non-None subtree value
 
 `    return left or right`
