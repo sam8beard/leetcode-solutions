@@ -5,7 +5,7 @@
 - [x] Invert Binary Tree - ==Easy==
 - [x] Max Depth of Binary Tree - ==Easy==
 - [x] Same Tree - ==Easy==
-- [ ] Subtree of Another Tree - ==Easy==
+- [x] Subtree of Another Tree - ==Easy==
 - [ ] Lowest Common Ancestor of a Binary Tree - ==Medium==
 - [ ] Binary Tree Level Order Traversal - ==Medium==
 - [ ] Validate Binary Search Tree - ==Medium== 
