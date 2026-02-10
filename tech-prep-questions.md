@@ -181,9 +181,23 @@
 
 **Questions**
 - Why use a multi-stage Docker build?
+    - I used a multi stage build in order to 
+    properly manage dependencies upon altering the source
+    code and rebuilding it. it then runs the go binary inside
+    the container after building it
+    
 - What’s inside the final container?
+    - Inside the final container, there is a go
+    binary by the name of server
 - Why Alpine?
+    - I chose alpine because it is a lightweight 
+    distro that only requires about 8 MB of 
+    memory to run inside a container and is a more
+    security oriented option due to its limited
+    attack surface
 - What happens if `/app/output` doesn’t exist?
+    - Then it is created inside the container and written to. At
+    least im pretty sure?
 
 **Likely Modifications**
 - Create the output directory at startup
@@ -196,10 +210,25 @@
 
 **Questions**
 - Why is `IntervalManager` passed as a pointer?
+    - IntervalManager is passed as a pointer to ensure
+    that we are referencing the same variable throughout 
+    the lifetime of the process
 - Who owns the file lifecycle?
+    - The file lifecycle belongs to the interval manager, and 
+    the interval manager belongs to the handler
 - What happens if `Writer.Flush()` fails?
+    - If writer.flush() fails, then the resulting csv file
+    could be malformed
 - Why are some structs and fields exported?
+    - Some structs and fields are exported so they can be accessed
+    without getters and setters. In a production environment,
+    I would make them unexported to ensure secure and intentional
+    access.
 - Why split code into `api`, `handlers`, and `internal`?
+    - I organized the code into three different packages
+    in case of future expansion of the service and scalability.
+    The api package has structs and functions that could potentially
+    be used through out the service, handlers has all handler functions, and internal has utililty functions for processing
 
 **Possible Modifications**
 - Make ownership boundaries more explicit
@@ -212,8 +241,13 @@
 
 **Questions**
 - What would you change first if this were production?
+    - If this were production, I would first add explicit error handling for all possible
+    cases in which errors can be produced.
 - What did you intentionally simplify?
+    - I intentionally simplified the package structure, the error handling, and some of the utility functions.
 - What tradeoffs did you make due to time constraints?
+    - I didnt handle most errors, some of my naming conventions are sloppy,
+    some of the owner ship boundaries could be better defined.
 
 **Expected Framing**
 - Acknowledge flaws proactively
